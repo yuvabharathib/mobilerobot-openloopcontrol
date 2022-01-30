@@ -50,6 +50,8 @@ if __name__ == '__main__':
 
 ## MobileRobot Movement Image:
 
+![robo](./img/robomaster.png)
+
 Insert image here
 
 
@@ -69,3 +71,11 @@ Embed video here
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
+
+
+<br/>
+<br/>
+
+### Mobile Robotics Laboratory
+### Department of Artificial Intelligence and Data Science/ Machine Learning
+### Saveetha Engineering College
